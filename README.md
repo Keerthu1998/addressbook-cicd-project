@@ -10,12 +10,9 @@ designed. Please note this example uses and requires Java 8 to work..
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
 Hii keerthan
-Running the example from the command line
--------------------
-```
-$ mvn jetty:run
-``
-Open [http://localhost:8080/](http://localhost:8080/)
+
+ok
+en [http://localhost:8080/](http://localhost:8080/)
 
 
 Importing in IntelliJ IDEA 14
